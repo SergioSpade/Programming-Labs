@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Exam Program", "Final Exam Program\Final Exam Program.csproj", "{B163054D-7E9B-4B4C-BA25-13384BA59287}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almost Chess", "Almost Chess\Almost Chess.csproj", "{1AE8FA52-66F8-46C3-879F-9B73245B612C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B163054D-7E9B-4B4C-BA25-13384BA59287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B163054D-7E9B-4B4C-BA25-13384BA59287}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B163054D-7E9B-4B4C-BA25-13384BA59287}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B163054D-7E9B-4B4C-BA25-13384BA59287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE8FA52-66F8-46C3-879F-9B73245B612C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE8FA52-66F8-46C3-879F-9B73245B612C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE8FA52-66F8-46C3-879F-9B73245B612C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE8FA52-66F8-46C3-879F-9B73245B612C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B70F0640-F5AF-46F9-8AD2-39CE3AFF425F}
+		SolutionGuid = {ED9E17FB-D1BE-49D0-9A5D-C30707569B95}
 	EndGlobalSection
 EndGlobal

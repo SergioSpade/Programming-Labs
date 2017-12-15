@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B163054D-7E9B-4B4C-BA25-13384BA59287}</ProjectGuid>
+    <ProjectGuid>{6A7F66BC-D031-4770-B3CF-84C0DF67F292}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Final_Exam_Program</RootNamespace>
-    <AssemblyName>Final Exam Program</AssemblyName>
+    <RootNamespace>Almost_Chess</RootNamespace>
+    <AssemblyName>Almost_Chess</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,8 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Elevator.cs" />
-    <Compile Include="Passenger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
